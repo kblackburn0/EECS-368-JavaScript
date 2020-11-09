@@ -1,0 +1,45 @@
+/* Katelyn Blackburn, EECS 368 JavaScript Game */
+
+body, head{
+  margin-top: 20px;
+  background-color: CadetBlue;
+  Font-family : "Geneva";
+}
+
+table {
+  border:2px solid black;
+  Background-color : black;
+}
+
+td {
+  border:2px solid black;
+  border-radius: 30px;
+  width:50px;
+  height:50px;
+}
+
+h1{
+  letter-spacing: 20px;
+  font-variant: small-caps;
+  font-weight: 900;
+  border:  outset;
+  border-width: 5px;
+  width: 600px;
+  background-color: lightgrey;
+}
+
+h2 {
+  Text-indent : 10px;
+  Word-spacing : 31px;
+  margin-bottom: 3px;
+}
+
+h4{
+  Text-decoration : underline;
+  margin-bottom: 0;
+}
+
+ul{
+  List-style-type: square;
+  List-style-position: inside;
+}
